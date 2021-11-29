@@ -4,15 +4,28 @@ Nice to meet you! I am a full-stack developer and therefore I am able to develop
 
 - ⚙️ Main Technologies I work with
   - 💻 Front End
-    - :heavy_check_mark: ReactJs
-    - :heavy_check_mark: React-Native
-    - :heavy_check_mark: Styled Components
+    - ✅ React
+    - ✅ React Native
+    - ✅ Styled Components
+    - ✅ Next
+    - ✅ Sockets
+    - ✅ Jest
+    - ✅ React Testing Library
+    - ✅ Sass
 
   - 📡 Back End
-    - :heavy_check_mark: NodeJs
-    - :heavy_check_mark: ExpressJs
-    - :heavy_check_mark: Socket.io
-    - :heavy_check_mark: MongoDB
+    - ✅ Node
+    - ✅ Express
+    - ✅ Nest
+    - ✅ Socket.io
+    - ✅ TypeOrm
+    - ✅ Jest
+
+  - 🔗 Geral
+    - ✅ Git
+    - ✅ GitHub
+    - ✅ JavaScript
+    - ✅ TypeScript
 
 </br>
 

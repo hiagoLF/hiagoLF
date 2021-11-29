@@ -21,7 +21,7 @@ Nice to meet you! I am a full-stack developer and therefore I am able to develop
     - ✅ TypeOrm
     - ✅ Jest
 
-  - 🔗 Geral
+  - 🔗 General
     - ✅ Git
     - ✅ GitHub
     - ✅ JavaScript

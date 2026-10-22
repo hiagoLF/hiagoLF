@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! I am a full-stack developer and therefore I am able to develop front-end applications that interact with the user and back-end applications that do all the processing of the data sent to the server.
+Nice to meet you! I am a font-end focused full-stack developer and therefore I am able to develop front-end applications that interact with the user and back-end applications that do all the processing of the data sent to the server.
 
 - ⚙️ Main Technologies I work with
   - 💻 Front End
@@ -29,8 +29,7 @@ Nice to meet you! I am a full-stack developer and therefore I am able to develop
 
 </br>
 
-- 🔭 I’m currently working for myself in freelancers projects
-- 💬 Ask me about Full Stack development
+- 💬 Ask me about Front-end, mobile development, react native, expo and Next.js
 - 📫 How to reach me: Send me a message on hiagolof@gmail.com
 
 - :computer: See my projects bellow ↴
